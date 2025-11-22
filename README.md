@@ -11,12 +11,12 @@ Python 3.x: The script is written in standard Python 3 and requires no external 
 
 ⚙️ How to Run the Script
 
-1.  Save the Code:Save the provided code into a file named `password_generator.py`.
+1.  Save the Code:Save the provided code into a file named `password_generator 1.py`.
 2.  Open Terminal: Navigate to the directory where you saved the file.
 3.  Execute: Run the script using the Python interpreter:
 
     ```bash
-    python3 password_generator.py
+    python3 password_generator 1.py
     ```
 
 4.  Follow Prompts: The script will guide you through entering the desired password length and the character types to include.
